@@ -6,3 +6,4 @@
 ### Your script should contain only executable content
 ### You should enable executable privilege over your shell script
 ### Run the script with an absoulte path or relative Path
+**DevOps** is a culture that we adapt in **agile** software development
